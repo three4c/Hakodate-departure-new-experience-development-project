@@ -1,4 +1,4 @@
-  import KinectPV2.KJoint;
+import KinectPV2.KJoint;
 import KinectPV2.*;
 import ddf.minim.*;
 Minim minim;  //Minim型変数であるminimの宣言
