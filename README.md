@@ -1,4 +1,4 @@
-# Hakodate-departure-new-experience-development-project-2017
+# Hakodate-departure-new-experience-development-project
 
 ###  函館発新体験開発プロジェクトとは  
 
