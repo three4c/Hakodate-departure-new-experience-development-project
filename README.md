@@ -24,7 +24,7 @@
 * カラふる
 * Sound Motion
 
-### 使用したツール・言語
+### 使用した言語・ツール
 * Processing
 * Arduino
 * Swift
